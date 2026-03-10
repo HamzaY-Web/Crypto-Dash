@@ -78,10 +78,12 @@ a {
 
 .top-controls .filter {
   flex: 1;
+  margin-bottom: 0;
 }
 
 .top-controls .controls {
   flex-shrink: 0;
+  margin-bottom: 0;
 }
 
 /* Limit Select */
